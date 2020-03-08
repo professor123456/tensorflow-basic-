@@ -1,0 +1,6 @@
+import tensorflow as tf
+#define input feature columns 
+featcols = []
+#instantiate model 
+model = tf.estimator.
+# train + predict
